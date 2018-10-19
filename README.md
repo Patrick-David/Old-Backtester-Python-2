@@ -1,6 +1,7 @@
 # Backtester
 
 Python based Equity Backtester
+Note: this is written in Python 2 and some functionality has been depricated
 ## This script provides a basic Backtesting / Market Simulator infrastructure for a given equity trading strategy.
 
 Simply run the whole script to start the backtest
